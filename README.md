@@ -14,7 +14,7 @@ _Online Battle Rooms (like [LetsCube](https://letscube.net))_
 
 ## Using
 
-To use this software, __download the code and run the `index.html` file in the `public` folder__.
+To use this software, __download the code and run the `npm start` after changing into the folder. Node must be installed__.
 
 ## Testing
 

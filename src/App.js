@@ -1,6 +1,10 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
+import useKeyboardTimer from 'use-keyboard-timer';
+const scrambled = require('scrambled')
+
+
 
 class App extends Component {
   render() {
